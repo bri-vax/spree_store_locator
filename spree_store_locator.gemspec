@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = '3.3.0'
   s.summary     = 'A Store Locator for your Spree Store'
   s.description = 'Show your customer where do you sell easily'
-  s.required_ruby_version = '>= 2.3.0'
+  s.required_ruby_version = '>= 2.7.0'
 
    s.author    = 'Matteo Alessani'
    s.email     = 'alessani@gmail.com'
